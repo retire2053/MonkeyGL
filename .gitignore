@@ -42,3 +42,11 @@ install/
 data/*.json
 *.pyc
 *.DS_Store
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/MonkeyGL.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.gitignore
+.gitignore
